@@ -16,19 +16,20 @@ Results driven Software Developer focusing on Javascript and React, with a keen 
 ## Languages and Tools:
 
 ### My main stack skills
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript)
-<br>
-<br>
-![React](https://img.shields.io/badge/-ReactJS-blue?style=flat-square&logo=react)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/-NodeJS-green?style=flat-square&logo=Node.js)
 ![Express](https://img.shields.io/badge/-Express-purple?style=flat-square&logo=express)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat-square&logo=mongodb)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-pink?style=flat-square&logo=graphql)
 ![Apollo](https://img.shields.io/badge/-Apollo-blue?style=flat-square&logo=apollo)
 ![RestAPI](https://img.shields.io/badge/-RestAPI-grey?style=flat-square&logo=restapi)
+![React](https://img.shields.io/badge/-ReactJS-blue?style=flat-square&logo=react)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white)
+<br>
+<br>
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript)
+
 
 ### I also worked with:
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
