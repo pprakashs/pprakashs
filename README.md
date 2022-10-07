@@ -1,7 +1,7 @@
 Hi 👋 My name is Prakash Shrestha
 ================================
 
-Full Stack Software Developer
+Full Stack Web Apps Developer
 ------------------
 
 Results driven Software Developer focusing on Javascript and React, with a keen interest in Machine Learning and AI. I have a strong leadership background and enjoy mentoring other developers, and supporting the community. Versatile and adaptive, I enjoy working on mulitple projects, both large and small and am able to switch gears with ease. I have over 5 years of process improvement project management experience, and a deep belief in the power of leaving everything better than I found it.
