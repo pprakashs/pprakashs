@@ -24,6 +24,7 @@ Results driven Software Developer focusing on Javascript and React, with a keen 
 ![RestAPI](https://img.shields.io/badge/-RestAPI-grey?style=flat-square&logo=restapi)
 ![React](https://img.shields.io/badge/-ReactJS-blue?style=flat-square&logo=react)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white)
+![NextJs](https://img.shields.io/badge/NextJs-000000?style=flat-square&logo=nextjs&logoColor=white)
 <br>
 <br>
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -41,6 +42,3 @@ Results driven Software Developer focusing on Javascript and React, with a keen 
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VSCode](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code)
 ![Postman](https://img.shields.io/badge/-Postman-orange?style=flat-square&logo=postman)
-
-### Badges
-<a href="https://github.com/pprakashs" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomasaurelius&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
