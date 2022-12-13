@@ -26,7 +26,7 @@ Results driven Software Developer focusing on Javascript and React, with a keen 
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white)
 ![NextJs](https://img.shields.io/badge/NextJs-000000?style=flat-square&logo=nextjs&logoColor=white)
 <br>
-![PHP](https://img.shields.io/badge/-PHP-yellow?style=flat-square&logo=php)
+![PHP](https://img.shields.io/badge/-PHP-green?style=flat-square&logo=php)
 ![WORDPRESS](https://img.shields.io/badge/-WORDPRESS-1572B6?style=flat-square&logo=wordpress&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
