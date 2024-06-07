@@ -4,7 +4,7 @@ Hi 👋 My name is Prakash Shrestha
 Full Stack Web Apps Developer
 ------------------
 
-Results driven Software Developer focusing on Javascript and React, with a keen interest in Machine Learning and AI. I have a strong leadership background and enjoy mentoring other developers, and supporting the community. Versatile and adaptive, I enjoy working on mulitple projects, both large and small and am able to switch gears with ease. I have over 5 years of process improvement project management experience, and a deep belief in the power of leaving everything better than I found it.
+As a web application developer with a passion for learning and growth, I have gained a wide range of experience in web development. I am proficient in full-stack development and am able to take on challenging projects with confidence. I am committed to delivering timely results and ensuring your satisfaction with the work I produce. Thank you for considering my skills and experience.
 
 * 🌍  I'm based in Bhaktapur, Nepal
 * ✉️  Freelance requests can contact me at [contact@pprakash.com](mailto:contact@pprakash.com)    
