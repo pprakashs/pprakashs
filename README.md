@@ -10,7 +10,7 @@ As a web application developer with a passion for learning and growth, I have ga
 * ✉️  Freelance requests can contact me at [contact@pprakash.com](mailto:contact@pprakash.com)    
 * 🧠  I'm focused on MongoDB, Express, React, NodeJS - MERN
 * 🤝  Here is my portfolio: [pprakash.com](https://pprakash.com)
-* ⚡  I'm interested in Machine Learning and AI as side projects
+* ⚡  I'm interested in Machine Learning, AI, and Blockchain as side projects
 
 ## Languages and Tools:
 
